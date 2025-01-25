@@ -1,0 +1,6 @@
+DAX Measures
+-------------------
+1. Average Spends = DIVIDE([Total Spend (6 month)],6,0)
+2. Avg Income Utilisation % = DIVIDE([Average Spend],[Sum of Avg Income],0)
+3. Sum of Average Income = SUM(dim_customers[avg_income])
+4. Total Spend (6 month) = SUM(fact_spends[spend])
