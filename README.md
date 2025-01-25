@@ -5,6 +5,7 @@ This project involves analyzing customer spending patterns to assist Mitron Bank
 
 AtliQ Data Services was assigned a pilot project, and I conducted this analysis using **Excel Power Query**, **Power Pivot**, and **DAX**. The dataset includes **4,000 customers** and **864,000 transactions** over six months.  
 
+This project was conducted by Codebasics as resume project challenge(#8).
 ---
 
 ## Objectives  
